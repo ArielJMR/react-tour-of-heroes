@@ -74,8 +74,8 @@ input {
 
 button.delete {
   position: absolute;
-  left: 210px;
-  top: 5px;
+  left: 216px;
+  top: -19px;
   background-color: white;
   color: #525252;
   font-size: 1.1rem;
