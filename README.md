@@ -1,11 +1,8 @@
 ## Scripts
 
-Para levantar el proyecto:
+Antes de levantar el proyecto ejecute el siguiente comando ya que sin el servidor levantado no funcionara:
+### `npm run web:server`
 
-### `yarn start`
-
-
-Para levantar el servidor json
-
-### `yarn start:server`
+Para ejecutar la web ejecute el siguiente comando:
+### `npm run web:start`
 
